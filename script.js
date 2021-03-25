@@ -11,9 +11,10 @@ document.addEventListener("click", () => {
   if (randomNumber === 1) {
     p.textContent = "you loose";
     totalScore = 0;
-  } else if (totalScore >= 12) {
+  } else if (totalScore >= 20) {
     p.textContent = "you win";
   } else {
-    p.textContent = "keep going till you get 12!";
+    p.textContent =
+      "keep going till you get 20!   if you roll a 1 ,...start over";
   }
 });
