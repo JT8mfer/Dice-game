@@ -1,0 +1,29 @@
+html {
+  background-image: url(https://image.freepik.com/free-vector/seamless-pattern-lucky-dice-with-six-pop-art-style_77032-2041.jpg);
+}
+.dice-pic {
+  box-shadow: 10px 10px 10px 10px black;
+  max-width: 35vw;
+  padding-left: 25vw;
+  min-height: 40vh;
+  border-radius: 12px;
+  margin-left: 15%;
+  padding-top: 5%;
+}
+
+.pic1 {
+  box-shadow: 10px 10px 10px 10px #17151c;
+  border-radius: 25px;
+}
+h1 {
+  background-image: url(https://previews.123rf.com/images/belchonock/belchonock1001/belchonock100102530/6282503-blue-background-in-snake-pattern-style.jpg);
+  color: red;
+  text-shadow: 2px 2px 2px yellow;
+  font-size: 10rem;
+  text-align: center;
+  border: solid 12px red;
+  border-radius: 25px;
+  max-width: 45vw;
+  margin-left: 25%;
+  box-shadow: 10px 10px 10px 8px #17151c;
+}
